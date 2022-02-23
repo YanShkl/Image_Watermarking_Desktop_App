@@ -50,7 +50,7 @@ def browseFiles():
     y_watermark = height - textheight - margin
     draw.text((x_watermark, y_watermark), text, font=font,fill=color )
     image.show()
-    image.save('watermark.png')
+    image.save('watermarked.png')
 
 
 

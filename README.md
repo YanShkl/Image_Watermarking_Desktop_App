@@ -1,7 +1,7 @@
 
 # Portfolio Website
 
-The Portfolio Website is a site python build project Allowing you to briefly explore, skills, portfolio, and to Contact if necessary.
+The Portfolio Website is a python build project Allowing you to briefly explore, skills, portfolio, and to Contact if necessary.
 
 The Website was written using Flask and smtplib and os libraries.
 

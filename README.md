@@ -1,14 +1,17 @@
 
-# Portfolio Website
+# Image Watermarking Desktop App
 
-The Portfolio Website is a python build project Allowing you to briefly explore, skills, portfolio, and to Contact if necessary.
+The Image Watermarking Desktop App is a  python build project Allowing you to apply a water seal on the image.
 
-The Website was written using Flask and smtplib and os libraries.
+The Application was written using Tkinter and PIL libraries.
 
 
 [Website Link](https://yan-shkleinik.herokuapp.com/)
 
-# Full Screenshot:
+# App Screenshot:
 
-![alt text](https://github.com/YanShkl/portfolio_website/blob/master/full%20screenshot.jpg?raw=true)
+![alt text](https://github.com/YanShkl/Image_Watermarking_Desktop_App/blob/master/window%20sample.png?raw=true)
 
+# Sample of Result:
+
+![alt text](https://github.com/YanShkl/Image_Watermarking_Desktop_App/blob/master/watermarked.png?raw=true)
